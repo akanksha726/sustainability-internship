@@ -89,7 +89,7 @@ Energy efficiency plays a crucial role in reducing wastage, lowering carbon foot
 
 ## 📌 Internship Info  
 - Internship: **Edunet Foundation – Sustainability, Energy & Efficiency**  
-- Duration: 3 Weeks  
+- Duration: 4 Weeks  
 - Tools Used: Python, Pandas, Scikit-learn, Matplotlib, Seaborn  
 
 ---
